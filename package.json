@@ -1,0 +1,14 @@
+{
+  "name": "ebrainlib",
+  "version": "1.0.0",
+  "description": "lib of functions to ebrain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnny Moreira",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.34"
+  }
+}
