@@ -1,6 +1,6 @@
 {
-  "name": "ebrainlib",
-  "version": "1.0.0",
+  "name": "ebrainlib2",
+  "version": "1.0.1",
   "description": "lib of functions to ebrain",
   "main": "index.js",
   "scripts": {
