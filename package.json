@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "start": "npm install",
-    "postinstall": "rollup -c"
+    "postinstall": "npm install && rollup -c"
   },
   "author": "Johnny Moreira",
   "license": "ISC",
